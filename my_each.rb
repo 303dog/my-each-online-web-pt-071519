@@ -1,6 +1,6 @@
 def my_each(array)
-  array.each do |collect|
-    puts "Hello,#{collect}!"
+  array.each do |name|
+    puts "Hello,#{name}!"
   end
 end
 
