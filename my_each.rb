@@ -3,3 +3,4 @@ def my_each(array)
     puts "Hello, numbers #{collect}!"
   end
 end
+
