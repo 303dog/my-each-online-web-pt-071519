@@ -3,5 +3,3 @@ def my_each(array)
     puts "Hello,#{name}!"
   end
 end
-
-my_each(array)
